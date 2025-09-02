@@ -10,7 +10,7 @@ The code is designed to reproduce the key figures presented in the paper, demons
 
 ```
 .
-├── run_final_experiments.py   # The main simulation and plotting script
+├── final_experiments.py   # The main simulation and plotting script
 ├── requirements.txt         # Python dependencies
 └── README.md                # This file
 ```
@@ -49,7 +49,7 @@ Follow these instructions to set up the environment and run the simulations on y
 To run all experiments and generate all figures from the paper, simply execute the main script:
 
 ```bash
-python run_final_experiments.py
+python final_experiments.py
 ```
 
 The script will print the status of each experiment to the console as it runs.
