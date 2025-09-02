@@ -27,11 +27,6 @@ Follow these instructions to set up the environment and run the simulations on y
 ### Installation
 
 1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/YourUserName/YourRepoName.git
-    cd YourRepoName
-    ```
-    (*请将 `YourUserName/YourRepoName` 替换为您的实际 GitHub 用户名和仓库名*)
 
 2.  **Create and activate a virtual environment (recommended):**
     ```bash
